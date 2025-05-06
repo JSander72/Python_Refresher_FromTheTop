@@ -86,7 +86,7 @@ import time  # Importing the time module | The time module provides various time
 # Importing the json module | The json module can parse JSON from strings or files
 import json  # Importing the json module | The json module can parse JSON from strings or files
 # Importing the requests module | The requests module allows you to send HTTP requests using Python
-import requests  # Importing the requests module | The requests module allows you to send HTTP requests using Python
+import requests  # type: ignore # Importing the requests module | The requests module allows you to send HTTP requests using Python
 # Importing the re module | The re module provides support for regular expressions
 import re  # Importing the re module | The re module provides support for regular expressions
 # Importing the csv module | The csv module implements classes to read and write tabular data in CSV format
